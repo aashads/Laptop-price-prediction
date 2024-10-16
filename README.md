@@ -1,4 +1,4 @@
-Laptop Price Prediction
+**Laptop Price Prediction**
 
 This repository contains a Laptop Price Prediction project using machine learning techniques to predict the price of laptops based on various features like brand, specifications, and other factors.
 Project Overview
